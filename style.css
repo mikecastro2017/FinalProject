@@ -1,0 +1,172 @@
+
+
+h1 {
+	font-size: 100px;
+    letter-spacing: 6px;
+	line-height: 0.8;
+	font: georgia, arial, sans-serif;
+	margin:0;
+}
+
+h4 {
+	font-size:50;
+    letter-spacing: 3px;
+	margin:0;
+}
+h6 {
+    margin:0;
+	
+}
+
+header {
+   background: black;
+   color:white;
+   height:200px;
+
+}
+
+article {
+	background-color:black;
+	color:white;
+	overflow: hidden;
+	height:600px;
+	
+}
+
+table, th, td{
+	
+	border-bottom: 1px solid #ddd;
+	
+}
+td{
+	font-style:italic;
+	text-align: left;
+}
+
+caption{
+	font-weight:bold;
+}
+table{
+	
+	margin-left: auto;
+    margin-right: auto }
+
+
+
+nav {
+	float:left;
+}
+
+footer {
+	font-size:10;
+	color: white;
+}
+
+body {
+   background: black;
+   font-size:2em;
+   text-align: center;
+  <!–– max-width:700px;-->
+}
+
+ul {
+   list-style-type: none;
+   padding: 0; 
+   width:150px;
+   background-color: lightgray;
+}
+
+li {
+   display: inline;
+}
+
+li a {
+   color: black;
+   padding: 10px 20px;
+   text-decoration: none;
+   display:block;
+}
+
+.logo {
+	width:380px;
+	height:190px;
+	position:fixed;
+	left:-35px;
+	top:-40px;
+}
+
+.imagelocation{
+	width:250px;
+	height:250px;
+	
+}
+
+.imagegallery{
+	width:300px;
+	height:300px;
+	
+}
+
+.tableprices{
+	position:fixed;
+	margin-left: 10%;
+    margin-right:auto ;
+	}
+	
+
+.tableextras{
+	position:fixed;
+	margin-left: 50%;
+    margin-right: auto;
+	}
+
+.tablelocations{
+	
+	margin-left: auto;
+    margin-right: auto;
+	}
+	
+.homepic
+{
+	width:500px;
+	height:500px;
+	position:fixed;
+	left:240px;
+	top:270px;
+}
+
+.tablegallery{
+	
+	margin-left: auto;
+    margin-right: auto;
+	}
+	
+	
+.artgallery{
+	height:1500px;
+	
+	
+}
+section {
+	position:fixed;
+	width:500px;
+	height:500px;
+	left:800px;
+	top:270px;
+	background: black;
+	color:white;
+
+	
+	
+}
+
+
+li a:hover{
+   background-color: gray;
+   color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
